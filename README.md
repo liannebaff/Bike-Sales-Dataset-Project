@@ -1,5 +1,5 @@
-# Bike Sales Dataset Project
-
+# 🚲 Bike Sales Dataset Project
+ 
 ### 📝 Project Summary
 This repository contains an Excel-based analysis of a synthetic bike sales dataset. The project demonstrates the use of pivot tables and pivot charts for data analysis to identify how customer demographics (age, location) affect revenue, and to assess how revenue and profit have changed over time.
 
