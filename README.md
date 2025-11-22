@@ -90,9 +90,9 @@ Customers have been classified into age groups based on their age, these are bel
 &nbsp;  
   **Worksheets:**
   - <small><strong>Sales Data:</strong> bike sales dataset.</small>
-  - <small><strong>Revenue and Profit by Year:</strong> pivot table and chart summarising revenue and profit by year </small>  
-  - <small><strong>Product Revenue by Country:</strong> pivot tables and charts summarising product revenue by country </small>  
-  - <small><strong>Revenue by Age Group:</strong> pivot tables and charts summarising revenue by age group </small>
+  - <small><strong>Revenue and Profit by Year:</strong> pivot table and chart summarising revenue and profit by year. </small>  
+  - <small><strong>Product Revenue by Country:</strong> pivot tables and charts summarising product revenue by country. </small>  
+  - <small><strong>Revenue by Age Group:</strong> pivot tables and charts summarising revenue by age group. </small>
 
 ### 📋 Dataset Structure
 
